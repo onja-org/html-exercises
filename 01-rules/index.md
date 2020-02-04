@@ -4,4 +4,4 @@ There are a number of rules associated with HTML elements, attributes, and HTML 
 
 Fix the file `01-fix-this-html.html` by making sure all the HTML inside is valid, and working according to the rules. Use the W3C Markup Validator if you want.
 
-Save, and then `commit` your changes in your forked repo. Make sure to `push`!
+Save, add, and then `commit` your changes in your forked repo. Make sure to `push`!

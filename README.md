@@ -11,3 +11,4 @@ In this repo, we have created a series of HTML exercises.
 ## Exercises
 
 - [01: HTML syntax rules](01-rules/index.md)
+- [02: Tables](02-tables/index.md)
