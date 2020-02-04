@@ -15,10 +15,10 @@ Make it look like the following:
      - Scary fingers
      - Scrawny head
      - Not so cute
-  1. Banded Lemur
   1. Grey Mouse Lemur
      - Super cute
      - Really small
+  1. Ring-tailed Lemur
 - Monkeys
 
 ---
