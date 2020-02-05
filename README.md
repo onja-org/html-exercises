@@ -13,3 +13,4 @@ In this repo, we have created a series of HTML exercises.
 - [01: HTML syntax rules](01-rules/index.md)
 - [02: Tables](02-tables/index.md)
 - [03: Nested lists](03-nested-lists/index.md)
+- [04: Sectioning elements](04-sectioning-elements/index.md)
