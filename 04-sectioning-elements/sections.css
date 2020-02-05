@@ -1,0 +1,77 @@
+/* Set some defaults */
+body {
+    font-family: sans-serif;
+    font-size: 100%;
+    margin: 0;
+    max-width: 30rem;
+}
+/* Give each sectioning element some spacing */
+header,
+main,
+article,
+nav,
+footer {
+    position: relative;
+    padding: 0.25rem 1rem;
+}
+
+/* Create pseudo-elements that give each element a key */
+header::before,
+main::before,
+article::before,
+nav::before,
+footer::before {
+    position: absolute;
+    top: .25rem;
+    right: .25rem;
+    font-size: .75rem;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+/* Now set the colours and attribution for each */
+header {
+    background-color: rgb(206, 211, 255);
+}
+main {
+    padding: 2rem;
+    background-color: rgb(255, 196, 196);
+}
+article {
+    padding: 2rem;
+    background-color: rgb(252, 252, 167);
+    border: 1px solid rgb(193, 173, 23);
+}
+nav {
+    background-color: rgb(250, 207, 250);
+}
+footer {
+    background-color: rgb(197, 255, 197);
+}
+
+/* And the right text for each element's pseudo-element */
+header::before {
+    content: '<header>';
+    color: rgb(78, 89, 255);
+}
+main::before {
+    content: '<main>';
+    color: rgb(215, 80, 80);
+}
+article::before {
+    content: '<article>';
+    color: rgb(193, 173, 23);
+}
+nav::before {
+    content: '<nav>';
+    color: rgb(204, 34, 213);
+}
+footer::before {
+    content: '<footer>';
+    color: rgb(19, 179, 27);
+}
+
+/* And finally, any overrides */
+main header {
+    border: 1px solid rgb(78, 89, 255);
+}
