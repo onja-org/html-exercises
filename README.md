@@ -16,3 +16,4 @@ In this repo, we have created a series of HTML exercises.
 - [04: Sectioning elements](04-sectioning-elements/index.md)
 - [05: All elements](05-all-elements/index.md)
 - [06: Images](06-images/index.md)
+- [07: Weekend Blog](07-weekend-blog/index.md)
