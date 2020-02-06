@@ -1,48 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>02: Tables</title>
-    </head>
-    <body>
-        <table>
-            <caption hidden>
-                3 types of fruit, totalling 530 Ar
-            </caption>
-            <thead>
-                <tr>
-                    <th scope="col" id="header_item">Item</th>
-                    <th scope="col" id="header_cost">Cost per item</th>
-                    <th scope="col" id="header_qty">Quantity</th>
-                    <th scope="col" id="header_price">Price</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <th headers="header_item" scope="row" id="row_bananas">Bananas</th>
-                    <td headers="row_bananas header_cost">50 Ar</td>
-                    <td headers="row_bananas header_qty">5</td>
-                    <td headers="row_bananas header_price">250 Ar</td>
-                </tr>
-                <tr>
-                    <th headers="header_item" scope="row" id="row_mangoes">Mangoes</th>
-                    <td headers="row_mangoes header_cost">60 Ar</td>
-                    <td headers="row_mangoes header_qty">3</td>
-                    <td headers="row_mangoes header_price">180 Ar</td>
-                </tr>
-                <tr>
-                    <th headers="header_item" scope="row" id="row_plums">Plums</th>
-                    <td headers="row_plums header_cost">10 Ar</td>
-                    <td headers="row_plums header_qty">10</td>
-                    <td headers="row_plums header_price">100 Ar</td>
-                </tr>
-            </tbody>
-            <tfoot>
-                <tr>
-                    <th scope="row" colspan="3" id="row_total">Total</th>
-                    <th headers="row_total header_price">530 Ar</th>
-                </tr>
-            </tfoot>
-        </table>
-    </body>
+  <head>
+    <meta charset="UTF-8">
+    <title>02: Tables</title>
+  </head>
+  <body>
+
+    <table>
+      <caption hidden>
+        3 types of fruit, totalling 530 Ar
+      </caption>
+      <thead>
+        <tr>
+          <th scope="col" id="header_item">Item</th>
+          <th scope="col" id="header_cost">Cost per item</th>
+          <th scope="col" id="header_qty">Quantity</th>
+          <th scope="col" id="header_price">Price</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th headers="header_item" scope="row" id="row_bananas">Bananas</th>
+          <td headers="row_bananas header_cost">50 Ar</td>
+          <td headers="row_bananas header_qty">5</td>
+          <td headers="row_bananas header_price">250 Ar</td>
+        </tr>
+        <tr>
+          <th headers="header_item" scope="row" id="row_mangoes">Mangoes</th>
+          <td headers="row_mangoes header_cost">60 Ar</td>
+          <td headers="row_mangoes header_qty">3</td>
+          <td headers="row_mangoes header_price">180 Ar</td>
+        </tr>
+        <tr>
+          <th headers="header_item" scope="row" id="row_plums">Plums</th>
+          <td headers="row_plums header_cost">10 Ar</td>
+          <td headers="row_plums header_qty">10</td>
+          <td headers="row_plums header_price">100 Ar</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <th scope="row" colspan="3" id="row_total">Total</th>
+          <th headers="row_total header_price">530 Ar</th>
+        </tr>
+      </tfoot>
+    </table>
+
+  </body>
 </html>
