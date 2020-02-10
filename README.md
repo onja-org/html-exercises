@@ -18,3 +18,4 @@ In this repo, we have created a series of HTML exercises.
 - [06: Images](06-images/index.md)
 - [07: Weekend Blog](07-weekend-blog/index.md)
 - [08: Log in form](08-log-in-form/index.md)
+- [09: Choosing the correct field](09-correct-fields/index.md)
