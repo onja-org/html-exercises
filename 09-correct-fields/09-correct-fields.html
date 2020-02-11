@@ -25,7 +25,7 @@
       </ul>
     </nav>
     <main>
-      <form action="#" method="GET" id="form_text">
+      <form action="#form_text" method="GET" id="form_text">
         <header>
           <h2>Text entry</h2>
         </header>
@@ -58,7 +58,7 @@
         </div>
       </form>
 
-      <form action="#" method="GET" id="form_booleans">
+      <form action="#form_booleans" method="GET" id="form_booleans">
         <header>
           <h2>Boolean / Binary choices</h2>
         </header>
@@ -69,6 +69,7 @@
         <fieldset>
           <legend>Confirm</legend>
           <!-- The server is expecting a specific name/value pair of `confirm=true` that the user can confirm, or nothing in its place. -->
+          <input type="checkbox" name="confirm" value="true">
         </fieldset>
         <fieldset>
           <legend>Yes or No</legend>
@@ -79,7 +80,7 @@
         </div>
       </form>
 
-      <form action="#" method="GET" id="form_single">
+      <form action="#form_single" method="GET" id="form_single">
         <header>
           <h2>Single choice from a set of options</h2>
         </header>
@@ -114,7 +115,7 @@
         </div>
       </form>
 
-      <form action="#" method="GET" id="form_multiple">
+      <form action="#form_multiple" method="GET" id="form_multiple">
         <header>
           <h2>Multiple choices from a set of options</h2>
         </header>
@@ -149,7 +150,7 @@
         </div>
       </form>
 
-      <form action="#" method="GET" id="form_other" enctype="multipart/form-data">
+      <form action="#form_other" method="GET" id="form_other" enctype="multipart/form-data">
         <header>
           <h2>Other form fields</h2>
         </header>
