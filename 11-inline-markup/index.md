@@ -17,6 +17,7 @@ Some of the inline elements:
 - `<kbd>`
 - `<mark>`
 - `<pre>`
+- `<q>`
 - `<s>`
 - `<small>`
 - `<span>`
