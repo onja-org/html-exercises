@@ -19,3 +19,7 @@ In this repo, we have created a series of HTML exercises.
 - [07: Weekend Blog](07-weekend-blog/index.md)
 - [08: Log in form](08-log-in-form/index.md)
 - [09: Choosing the correct field](09-correct-fields/index.md)
+- [10: Form to Google Sheets](10-form-to-sheets/index.md)
+- [11: Inline markup](11-inline-markup/index.md)
+- [12: Clean code](12-clean-code/index.md)
+
