@@ -1,0 +1,15 @@
+video {
+  width: 40vw;
+  height: 30vw;
+}
+
+canvas {
+  width: 50vw;
+  height: 50vw;
+	cursor: pointer;
+}
+
+video,
+canvas {
+  background-color: rgb(0,0,0);
+}
