@@ -12,4 +12,5 @@ In this folder, you'll find a video, audio, and javascript file. Your job is to:
 
 # Credits
 
-All sounds from [Wikipedia](https://en.wikipedia.org/wiki/Ring-tailed_lemur_vocalizations)
+- All sounds from [Wikipedia](https://en.wikipedia.org/wiki/Ring-tailed_lemur_vocalizations)
+- Canvas Script from https://codepen.io/ge1doot/pen/LkdOwj
