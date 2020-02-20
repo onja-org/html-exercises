@@ -9,3 +9,7 @@ In this folder, you'll find a video, audio, and javascript file. Your job is to:
 - Load the JavaScript in the page using a `script` element,
 - Apply the CSS to the page using a `link` element, and lastly,
 - Provide a `canvas` element for the JavaScript to draw on.
+
+# Credits
+
+All sounds from [Wikipedia](https://en.wikipedia.org/wiki/Ring-tailed_lemur_vocalizations)

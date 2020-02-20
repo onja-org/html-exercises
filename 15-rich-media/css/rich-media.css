@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+video {
+  max-width: 25vw;
+  max-height: 50vh;
+}
+
+canvas {
+  width: 100vw;
+  height: 30vw;
+	cursor: pointer;
+}
+
+video,
+canvas {
+  background-color: rgb(0,0,0);
+}
