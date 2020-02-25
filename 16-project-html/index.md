@@ -85,6 +85,20 @@ This page is a chance to get personal. Give your reader at least 3 tips on how t
 1. Use `master` as your default development branch, only merging to `gh-pages` when you're ready to publish your changes.
 1. Get coding!
 
+## What you'll be marked on
+
+Your project will be evaluated on:
+
+- Your use of English (Spelling, Grammar)
+- Your code cleanliness (Is it easy to read, and free of garbage)
+- Your use of HTML elements (Did you use the correct HTML element? Could you have used an HTML element where there is none?)
+- Your Git commits, pushes, branch use.
+
+You will lose points if there are any:
+
+- 404s for any of your links
+- validation **errors** in the W3C validator. Warnings are OK.
+
 ## Some hints
 
 - Try to be consistent
