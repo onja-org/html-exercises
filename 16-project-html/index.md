@@ -2,7 +2,11 @@
 
 You've learned a lot about HTML the past 3 weeks. Now it's time to share what you've learned. In this exercise, you need to create a website that can help others learn HTML.
 
-There will be at least 6 pages in this website, so you'll need a good URL structure.
+- [Sections](#sections)
+- [Pages](#pages)
+- [Getting started](#getting-started)
+- [What you'll be marked on](#what-youll-be-marked-on)
+- [Some hints](#some-hints)
 
 ## Sections
 
