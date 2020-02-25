@@ -32,6 +32,7 @@ We won't be creating all the possible pages in this website. Instead, we'll be b
 The homepage needs to:
 
 - introduce the website to the user, explaining what the website is about
+- have a brief description of HTML
 - offer links to the various sections.
 - finish off with your details as the author. How do people know who wrote this website? How can they get in touch with you?
 
